@@ -13,6 +13,7 @@ In my free time, I enjoy reading, listening to podcasts, travelling, exercising,
 💡 Core Competencies
 
 Tools: Python, Tableau, Excel, Google Sheets
+
 Skills: Data Analysis, Relational Databases, Visualization, Business Analysis
 
 📝 Currently Learning

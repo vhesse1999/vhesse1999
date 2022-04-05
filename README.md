@@ -10,4 +10,11 @@ My top 5 strengths are communication, analytical, consistency, learner, and disc
 
 In my free time, I enjoy reading, listening to podcasts, travelling, exercising, being outdoors, learning, meeting new people, and spending time with friends and family.
 
-My linkedIn is: https://www.linkedin.com/in/valeria-hesse/ 
+💡 Core Competencies
+Tools: Python, Tableau, Excel, Google Sheets
+Skills: Data Analysis, Relational Databases, Visualization, Business Analysis
+
+📝 Currently Learning
+DataCamp Data Scientist with Python
+
+My LinkedIn is: https://www.linkedin.com/in/valeria-hesse/ 
